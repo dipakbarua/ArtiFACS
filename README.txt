@@ -23,7 +23,7 @@ Step 3: use the following command to install remaining dependencies
  
 pip3 install -r requirements.txt
 
-Step 4: Use the following command to execute the model. The prediction accuracy will be reported in a file named accuracy.csv. (To change any variable or parameter, edit the parameter block in the source file "main.py".)
+Step 4: Use the following command to execute the model. The prediction accuracy will be reported in a file named accuracy.csv. (To change any variable or parameter, edit the parameter block in the source file "main.py".
 
 python3 main.py   
 
